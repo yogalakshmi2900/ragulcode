@@ -1,0 +1,57 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.bgcolor{
+    background-color: royalblue;
+}
+nav ul li{
+    padding-left:100px;
+    font-family: Georgia;
+    color: thistle !important;
+    font-size: larger;
+
+
+}
+.buff{
+    padding-left: 180px;
+}
+.title{
+    font-size: xx-large;
+    text-align: center;
+    background-color: cadetblue;
+    height: 50px;
+    color: seashell;
+    font-family: Georgia;
+
+}
+.mycol{
+    background-color:seagreen;
+    height: 200px;
+    border: solid;
+    font-size:xx-large;
+    font-family: Georgia;
+    color: seashell;
+    border-radius:15px;
+
+}
+.login{
+  height: 152px;
+  width: 325px;
+  left: 21px;
+  text-align: center;
+}
+.pic img{
+  height:250px;
+  width: 35%;
+  top:10%;
+  position: relative;
+  left: 60%;
+}
+.footer{
+  background-color:#ff3399;
+}
+.textbox{
+  text-align: center;
+
+}
